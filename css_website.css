@@ -1,0 +1,48 @@
+.topnav
+{
+    background-color:gray;
+    text-decoration-color: black;
+    border: solid;
+    border-color: black;
+    padding: 15px 16px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.topnav a
+{
+    text-shadow: black;
+    padding-right: 20px;
+    text-decoration: none;
+    
+}
+p
+{
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    font-style: italic;
+
+}
+td
+{
+    padding-right:20px ;
+    
+}
+
+h1
+{
+    color: red;
+    font-style: italic;
+    font-size: 120px;
+
+}
+.topnav:hover
+{
+    background-color: black;
+
+}
